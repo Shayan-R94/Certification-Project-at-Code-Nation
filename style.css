@@ -1,0 +1,99 @@
+.section1 {
+  background-color: blanchedalmond
+}
+
+.section2 {
+  background-color: bisque
+}
+
+.title {
+  text-align: center
+}
+
+.codeSnippetImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.logosImage {
+  width: 25%;
+  height: auto;
+}
+
+/* Add a background colour to the top navigation */
+
+.topnav {
+  background-color: slategrey;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 19px 24px;
+  text-decoration: none;
+  font-size: 19px;
+}
+
+/* Change the colour of links and scale on hover */
+
+.topnav a:hover {
+  transform: all .4s ease-in-out;
+  transform: scale(1.2);
+  background-color: grey;
+  color: white;
+}
+
+/* Add a colour to the active/current link */
+
+.topnav a.active {
+  background-color: black;
+  color: white;
+}
+
+#myBtn {
+  display: none;
+  /* Hidden by default */
+  position: fixed;
+  /* Fixed/sticky position */
+  bottom: 20px;
+  /* Place the button at the bottom of the page */
+  right: 30px;
+  /* Place the button 30px from the right */
+  z-index: 99;
+  /* Make sure it does not overlap */
+  border: none;
+  /* Remove borders */
+  outline: none;
+  /* Remove outline */
+  background-color: slategrey;
+  /* Set a background color */
+  color: white;
+  /* Text color */
+  cursor: pointer;
+  /* Add a mouse pointer on hover */
+  padding: 15px;
+  /* Some padding */
+  border-radius: 10px;
+  /* Rounded corners */
+  font-size: 18px;
+  /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555;
+  /* Add a dark-grey background on hover */
+}
+
+.section2Container {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
