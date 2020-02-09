@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Shayan-R94/Certification-Project-at-Code-Nation">
-    <img src="https://cdn.wearecodenation.com/app/uploads/20190213104027/favicon.png" alt="Logo" width="300" height="300">
+    <img src="https://cdn.wearecodenation.com/app/uploads/20190213104027/favicon.png" alt="Logo" width="50%" height="auto">
   </a>
 
   <h3 align="center">Certification Project at Code Nation</h3>
@@ -38,8 +38,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<span><img src="https://user-images.githubusercontent.com/26175544/68329229-b9ddc700-00c8-11ea-9bfb-249a723f808e.gif" height="430" width="430">
-<img src="https://user-images.githubusercontent.com/26175544/68329361-fd383580-00c8-11ea-8140-ffc021b7ca2c.gif" height="430" width="430"></span>
+<span><img src="https://user-images.githubusercontent.com/26175544/68329229-b9ddc700-00c8-11ea-9bfb-249a723f808e.gif" width="75%" height="auto">
+<img src="https://user-images.githubusercontent.com/26175544/68329361-fd383580-00c8-11ea-8140-ffc021b7ca2c.gif" width="75%" height="auto"></span>
 
 Whilst at Code Nation, I had been tasked with the following project in order to recieve the following qualification. 
 <br />
